@@ -15,7 +15,7 @@ The program is useful to banks and other financial providers to quickly calculat
 ## Contributors
 Contributors include Nadia Botha and HyperionDev. 
 
-Please send an email to nadiamarais@live.co.za regarding any issues. Provide include a brief description and screenshot of the issue in the email, with Financial Calculators as the email subject. 
+Please send an email to nadiamarais@live.co.za regarding any issues. Include a brief description and screenshot of the issue in the email, with Financial Calculators as the email subject. 
 
 ## Installing and running the program
 Install Python 3.7 or a later version by clicking [here](https://www.python.org/downloads/).
